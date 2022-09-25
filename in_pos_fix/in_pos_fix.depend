@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636616794 source:d:\cevik\documents\codeblocksprojects\in_pos_fix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

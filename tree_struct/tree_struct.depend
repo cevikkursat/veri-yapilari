@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638431866 source:d:\cevik\documents\codeblocksprojects\tree_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

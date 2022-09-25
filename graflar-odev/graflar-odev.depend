@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647851114 source:d:\cevik\documents\codeblocksprojects\graflar-odev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
